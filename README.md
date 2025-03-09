@@ -1,7 +1,5 @@
 # 🐀 PokéTracker App
 
-<img width="1024" alt="poketracker" src="https://github.com/user-attachments/assets/cd74a3c6-58d0-40f9-b466-ec409c9d7942">
-
 ## Overview
 This project showcases a multi-platform mobile application with CRUD functionalities, using both native and cross-platform technologies and having a backend integration with a Django server. Specifically designed for users that want to manage their Pokemon collections across multiple games.
 
